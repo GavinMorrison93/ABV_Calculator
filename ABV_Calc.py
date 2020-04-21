@@ -20,5 +20,5 @@ ABV1 = (OG - FG) * 131.25
 # This is the Revenue calculation
 
 print("Algorithm 1 - Alcohol by Volume measurement is: ",ABV1)
-print("Algorithm 2 - Alcohol by Volume measurement is: ",ABV2)
+# print("Algorithm 2 - Alcohol by Volume measurement is: ",ABV2)
 

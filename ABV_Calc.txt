@@ -1,0 +1,14 @@
+Guys, what is the best website to get accurate ABV calculations from or is there a correct mathematical formula that should be used? I get different abv's from different website calculators.
+
+ABV = (OG - FG) * 131.25
+
+Sg-fg multiplied by
+0.129 if the gravity diff is between 26.2 and 36
+0.130 if the gravity diff is between 36.1 and 46.5
+0.131 if the gravity diff is between 46.6 and 57.1
+
+E.g
+Sg = 1048
+Fg = 1008
+48-8 = 40 x 0.130 = 5.2%
+This is the Revenue calculation
